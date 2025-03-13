@@ -1,0 +1,6 @@
+pytz==2025.1
+setuptools==75.8.2
+uv==0.6.4
+watchdog==6.0.0
+streamlit
+
